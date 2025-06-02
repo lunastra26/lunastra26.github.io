@@ -7,7 +7,7 @@ excerpt: 'Deep learning based segmentation for orbits in CT images.'
 date: 2009-10-01
 venue: 'Am J Neuroradiol'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.ajnr.org/content/41/6/1061'
 #bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 citation: 'Umapathy L, Winegar B, MacKinnon L, Hill M, Altbach MI, Miller JM, Bilgin A. Fully Automated Segmentation of Globes for Volume Quantification in CT Images of Orbits using Deep Learning. AJNR Am J Neuroradiol. 2020 Jun;41(6):1061-1069. doi: 10.3174/ajnr.A6538. Epub 2020 May 21. PMID: 32439637; PMCID: PMC7342761.'
 ---

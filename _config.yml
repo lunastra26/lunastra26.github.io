@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Dr. Lavanya Umapathy"
+title                    : "Lavanya Umapathy"
 title_separator          : "-"
 name                     : &name "Lavanya Umapathy"
 description              : &description "Postdoctoral Fellow at Center for Advanced Imaging Innovation and Research, NYU Grossman School of Medicine"
