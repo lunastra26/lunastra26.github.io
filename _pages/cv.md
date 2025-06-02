@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering (Minor: Optical Sciences), University of Arizona, 2023
+* M.S. in Electrical and Computer Engineering, University of Arizona, 2016
+#* B.E. in Electronics and Comm, GitHub University, 2012
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023: Postdoctoral Fellow
+  * Center for Advanced Imaging Innovation and Research, NYU Grossman School of Medicine
+  * PI: Dr. Daniel K Sodickson and Dr. Hersh Chandarana
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2017-2023: Research Assistant
+  * Department of Medical Imaging, University of Arizona
+  * Advisors: Dr. Maria Altbach and Dr. Ali Bilgin
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2014-2016: Research Assistant
+  * Department of Biomedical Engineering, University of Arizona
+  * Advisors: Dr. Ted Trouard and Dr. Ali Bilgin
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+#Skills
+#======
+#* Skill 1
+#* Skill 2
+#  * Sub-skill 2.1
+#  * Sub-skill 2.2
+#  * Sub-skill 2.3
+#* Skill 3
 
 Publications
 ======
@@ -59,6 +56,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
