@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Electrical and Computer Engineering (Minor: Optical Sciences), University of Arizona, 2023
 * M.S. in Electrical and Computer Engineering, University of Arizona, 2016
-[//]: # * B.E. in Electronics and Comm, GitHub University, 2012
+
 
 Work experience
 ======
@@ -35,7 +35,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!-- 
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -51,3 +52,4 @@ Teaching
 #Service and leadership
 #======
 #* Currently signed in to 43 different slack teams
+--!>
