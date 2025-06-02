@@ -13,13 +13,13 @@ Education
 ======
 * Ph.D in Electrical and Computer Engineering (Minor: Optical Sciences), University of Arizona, 2023
 * M.S. in Electrical and Computer Engineering, University of Arizona, 2016
-#* B.E. in Electronics and Comm, GitHub University, 2012
+[//]: # * B.E. in Electronics and Comm, GitHub University, 2012
 
 Work experience
 ======
 * 2023: Postdoctoral Fellow
   * Center for Advanced Imaging Innovation and Research, NYU Grossman School of Medicine
-  * PI: Dr. Daniel K Sodickson and Dr. Hersh Chandarana
+  * PIs: Dr. Daniel K Sodickson and Dr. Hersh Chandarana
 
 * 2017-2023: Research Assistant
   * Department of Medical Imaging, University of Arizona
@@ -29,14 +29,6 @@ Work experience
   * Department of Biomedical Engineering, University of Arizona
   * Advisors: Dr. Ted Trouard and Dr. Ali Bilgin
   
-#Skills
-#======
-#* Skill 1
-#* Skill 2
-#  * Sub-skill 2.1
-#  * Sub-skill 2.2
-#  * Sub-skill 2.3
-#* Skill 3
 
 Publications
 ======
