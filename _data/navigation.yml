@@ -17,8 +17,8 @@ main:
   #- title: "ConferenceProceedings"
   #  url: /conferenceproceedings/
 
-  #- title: "Teaching"
-  #  url: /teaching/    
+  - title: "Research"
+    url: /research/    
     
   - title: "CV"
     url: /cv/     
