@@ -9,26 +9,11 @@ venue: 'Investigative Radiology'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40586610'
 citation: 'Umapathy, Lavanya; Johnson, Patricia M; Dutt, Tarun; Tong, Angela; Chopra, Sumit; Sodickson, Daniel K; Chandarana, Hersh. Leveraging Representation Learning for Biparametric Prostate MRI to Disambiguate PIRADS3 and Improve Biopsy Decision Strategies. Investigative Radiology. 2025.'
 ---
-Background
-MRI plays a critical role in prostate cancer (PCa) detection and management. Bi-parametric MRI (bpMRI) offers a faster, contrast-free alternative to multi-parametric MRI (mpMRI). Routine use of mpMRI for all patients may not be necessary, and a tailored imaging approach (bpMRI or mpMRI) based on individual risk might optimize resource utilization. Purpose:To develop and evaluate a deep learning (DL) model for classifying clinically significant PCa (csPCa) using bpMRI and to assess its potential for optimizing MRI protocol selection by recommending the additional sequences of mpMRI only when beneficial.
 
-Study Type
-Retrospective and prospective.
+Objectives: Despite its high negative predictive value (NPV) for clinically significant prostate cancer (csPCa), MRI suffers from a substantial number of false positives, especially for intermediate-risk cases. In this work, we determine whether a deep learning model trained with PI-RADS-guided representation learning can disambiguate the PI-RADS 3 classification, detect csPCa from bi-parametric prostate MR images, and avoid unnecessary benign biopsies.
 
-Population
-The DL model was trained and validated on 26,129 prostate MRI studies. A retrospective cohort of 151 patients (mean age 65 ± 8) with ground-truth verification from biopsy, prostatectomy, or long-term follow-up, alongside a prospective cohort of 142 treatment-naïve patients (mean age 65 ± 9) undergoing bpMRI, was evaluated.
+Materials and methods: This study included 28,263 MR examinations and radiology reports from 21,938 men imaged for known or suspected prostate cancer between 2015 and 2023 at our institution (21 imaging locations with 34 readers), with 6352 subsequent biopsies. We trained a deep learning model, a representation learner (RL), to learn how radiologists interpret conventionally acquired T2-weighted and diffusion-weighted MR images, using exams in which the radiologists are confident in their risk assessments (PI-RADS 1 and 2 for the absence of csPCa vs. PI-RADS 4 and 5 for the presence of csPCa, n=21,465). We then trained biopsy-decision models to detect csPCa (Gleason score ≥7) using these learned image representations, and compared them to the performance of radiologists, and of models trained on other clinical variables (age, prostate volume, PSA, and PSA density) for treatment-naïve test cohorts consisting of only PI-RADS 3 (n=253, csPCa=103) and all PI-RADS (n=531, csPCa=300) cases.
 
-Field Strength/Sequence
-3 T, Turbo-spin echo T2-weighted imaging (T2WI) and single shot EPI diffusion-weighted imaging (DWI).
+Results: On the 2 test cohorts (PI-RADS-3-only, all-PI-RADS), RL-based biopsy-decision models consistently yielded higher AUCs in detecting csPCa (AUC=0.73 [0.66, 0.79], 0.88 [0.85, 0.91]) compared with radiologists (equivocal, AUC=0.79 [0.75, 0.83]) and the clinical model (AUCs=0.69 [0.62, 0.75], 0.78 [0.74, 0.82]). In the PIRADS-3-only cohort, all of whom would be biopsied using our institution's standard of care, the RL decision model avoided 41% (62/150) of benign biopsies compared with the clinical model (26%, P<0.001), and improved biopsy yield by 10% compared with the PI-RADS ≥3 decision strategy (0.50 vs. 0.40). Furthermore, on the all-PI-RADS cohort, RL decision model avoided 27% of additional benign biopsies (138/231) compared to radiologists (33%, P<0.001) with comparable sensitivity (93% vs. 92%), higher NPV (0.87 vs. 0.77), and biopsy yield (0.75 vs. 0.64). The combination of clinical and RL decision models further avoided benign biopsies (46% in PI-RADS-3-only and 62% in all-PI-RADS) while improving NPV (0.82, 0.88) and biopsy yields (0.52, 0.76) across the 2 test cohorts.
 
-Assessment
-The DL model, based on a 3D ResNet-50 architecture, classified csPCa using PI-RADS ≥ 3 and Gleason ≥ 7 as outcome measures. The model was evaluated on a prospective cohort labeled by consensus of three radiologists and a retrospective cohort with ground truth verification based on biopsy or long-term follow-up. Real-time inference was tested on an automated MRI workflow, providing classification results directly at the scanner.
-
-Statistical Tests
-AUROC with 95% confidence intervals (CI) was used to evaluate model performance.
-
-Results
-In the prospective cohort, the model achieved an AUC of 0.83 (95% CI: 0.77–0.89) for PI-RADS ≥ 3 classification, with 93% sensitivity and 54% specificity. In the retrospective cohort, the model achieved an AUC of 0.86 (95% CI: 0.80–0.91) for Gleason ≥ 7 classification, with 93% sensitivity and 62% specificity. Real-time implementation demonstrated a processing latency of 14–16 s for protocol recommendations.
-
-Data Conclusion
-The proposed DL model identifies csPCa using bpMRI and integrates it into clinical workflows.
+Conclusions: Our PI-RADS-guided deep learning RL model learns summary representations from bi-parametric prostate MR images that can provide additional information to disambiguate intermediate-risk PI-RADS 3 assessments. The resulting RL-based biopsy decision models also outperformed radiologists in avoiding benign biopsies while maintaining comparable sensitivity to csPCa for the all-PI-RADS cohort. Such AI models can easily be integrated into clinical practice to supplement radiologists' reads in general and improve biopsy yield for any equivocal decisions.
