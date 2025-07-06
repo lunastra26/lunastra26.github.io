@@ -6,7 +6,7 @@ permalink: /publication/2025-PIRADS3-disambiguation.md
 excerpt: 'Representation learning for prostate MRI'
 date: 2025-06-30
 venue: 'Investigative Radiology'
-paperurl: 'https://journals.lww.com/investigativeradiology/abstract/9900/leveraging_representation_learning_for.349.aspx'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40586610/'
 citation: 'Umapathy, Lavanya PhD; Johnson, Patricia M. PhD; Dutt, Tarun MTech; Tong, Angela MD; Chopra, Sumit PhD; Sodickson, Daniel K. MD, PhD; Chandarana, Hersh MD. Leveraging Representation Learning for Bi-parametric Prostate MRI to Disambiguate PI-RADS 3 and Improve Biopsy Decision Strategies. Investigative Radiology ():10.1097/RLI.0000000000001218, June 30, 2025. | DOI: 10.1097/RLI.0000000000001218'
 ---
 Objectives: 
