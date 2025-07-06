@@ -1,5 +1,5 @@
 ---
-title: "Leveraging Representation Learning for Biparametric Prostate MRI to Disambiguate PIRADS 3 and Improve Biopsy Decision Strategies"
+title: "Leveraging Representation Learning for Biparametric Prostate MRI to Disambiguate PIRADS3 and Improve Biopsy Decision Strategies"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-sample
