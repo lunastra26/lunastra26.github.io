@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-PIRADS3-disambiguation.md
 excerpt: 'Representation learning for prostate MRI'
-date: 2025-06-30
+date: 2022-06-30
 venue: 'Investigative Radiology'
 paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40586610/'
 citation: 'Umapathy, Lavanya; Johnson, Patricia M; Dutt, Tarun; Tong, Angela; Chopra, Sumit; Sodickson, Daniel K; Chandarana, Hersh. Leveraging Representation Learning for Biparametric Prostate MRI to Disambiguate PIRADS3 and Improve Biopsy Decision Strategies. Investigative Radiology. 2025.'
