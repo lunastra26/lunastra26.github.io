@@ -1,13 +1,13 @@
 ---
-title: "Prostate Cancer Risk Stratification and Scan Tailoring Using Deep Learning on Abbreviated Prostate MRI"
+title: "Leveraging Representation Learning for Biparametric Prostate MRI to Disambiguate PIRADS 3 and Improve Biopsy Decision Strategies"
 collection: publications
 category: manuscripts
 permalink: /publication/2025-sample
-excerpt: 'Intelligent scanning for prostate MRI'
+excerpt: 'Representation learning for prostate MRI'
 date: 2025-06-30
-venue: 'JMRI'
-paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29798'
-citation: 'Johnson, P.M., Dutt, T., Ginocchio, L.A., Saimbhi, A.S., Umapathy, L., Block, K.T., Sodickson, D.K., Chopra, S., Tong, A. and Chandarana, H. (2025), Prostate Cancer Risk Stratification and Scan Tailoring Using Deep Learning on Abbreviated Prostate MRI. J Magn Reson Imaging. https://doi.org/10.1002/jmri.29798'
+venue: 'Investigative Radiology'
+paperurl: 'https://pubmed.ncbi.nlm.nih.gov/40586610'
+citation: 'Umapathy, Lavanya; Johnson, Patricia M; Dutt, Tarun; Tong, Angela; Chopra, Sumit; Sodickson, Daniel K; Chandarana, Hersh. Leveraging Representation Learning for Biparametric Prostate MRI to Disambiguate PIRADS3 and Improve Biopsy Decision Strategies. Investigative Radiology. 2025.'
 ---
 Background
 MRI plays a critical role in prostate cancer (PCa) detection and management. Bi-parametric MRI (bpMRI) offers a faster, contrast-free alternative to multi-parametric MRI (mpMRI). Routine use of mpMRI for all patients may not be necessary, and a tailored imaging approach (bpMRI or mpMRI) based on individual risk might optimize resource utilization. Purpose:To develop and evaluate a deep learning (DL) model for classifying clinically significant PCa (csPCa) using bpMRI and to assess its potential for optimizing MRI protocol selection by recommending the additional sequences of mpMRI only when beneficial.
