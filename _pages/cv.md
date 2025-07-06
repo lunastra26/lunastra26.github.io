@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Electrical and Computer Engineering (Minor: Optical Sciences), University of Arizona, 2023
-* M.S. in Electrical and Computer Engineering, University of Arizona, 2016
-
 
 Work experience
 ======
@@ -29,6 +24,11 @@ Work experience
   * Department of Biomedical Engineering, University of Arizona
   * Advisors: Dr. Ted Trouard and Dr. Ali Bilgin
   
+Education
+======
+* Ph.D in Electrical and Computer Engineering (Minor: Optical Sciences), University of Arizona, 2023
+* M.S. in Electrical and Computer Engineering, University of Arizona, 2016
+
 
 Publications
 ======
