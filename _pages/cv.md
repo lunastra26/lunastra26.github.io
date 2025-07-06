@@ -14,15 +14,15 @@ Work experience
 ======
 * 2023: Postdoctoral Fellow
   * Center for Advanced Imaging Innovation and Research, NYU Grossman School of Medicine
-  * PIs: Dr. Daniel K Sodickson and Dr. Hersh Chandarana
+  * PIs: [Dr. Daniel K Sodickson](https://cbiweb.net/team/daniel-k-sodickson-md-phd/index.html and [Dr. Hersh Chandarana](https://cbiweb.net/team/hersh-chandarana-md/index.html)
 
 * 2017-2023: Research Assistant
   * Department of Medical Imaging, University of Arizona
-  * Advisors: Dr. Maria Altbach and Dr. Ali Bilgin
+  * Advisors: [Dr. Maria Altbach](https://cancercenter.arizona.edu/person/maria-altbach-phd) and [Dr. Ali Bilgin](https://cancercenter.arizona.edu/person/ali-bilgin-phd)
 
 * 2014-2016: Research Assistant
   * Department of Biomedical Engineering, University of Arizona
-  * Advisors: Dr. Ted Trouard and Dr. Ali Bilgin
+  * Advisors: [Dr. Ted Trouard](https://bme.engineering.arizona.edu/faculty-staff/faculty/ted-trouard) and Dr. Ali Bilgin
   
 Education
 ======
