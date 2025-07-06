@@ -2,7 +2,7 @@
 title: "Prostate Cancer Risk Stratification and Scan Tailoring Using Deep Learning on Abbreviated Prostate MRI"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-prostate-cancer-scan-tailoring
+permalink: /publication/2025-sample
 excerpt: 'Intelligent scanning for prostate MRI'
 date: 2025-06-30
 venue: 'JMRI'
