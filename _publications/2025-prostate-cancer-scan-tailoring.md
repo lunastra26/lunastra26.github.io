@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2025-prostate-cancer-scan-tailoring
 excerpt: 'Intelligent scanning for prostate MRI'
-date: 20235-04-22
+date: 2025-04-22
 venue: 'JMRI'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1002/jmri.29798'
 citation: 'Johnson, P.M., Dutt, T., Ginocchio, L.A., Saimbhi, A.S., Umapathy, L., Block, K.T., Sodickson, D.K., Chopra, S., Tong, A. and Chandarana, H. (2025), Prostate Cancer Risk Stratification and Scan Tailoring Using Deep Learning on Abbreviated Prostate MRI. J Magn Reson Imaging. https://doi.org/10.1002/jmri.29798'
