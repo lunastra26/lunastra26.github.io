@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* 2023: Postdoctoral Fellow
+* 2023-Now: Postdoctoral Fellow
   * Center for Advanced Imaging Innovation and Research, NYU Grossman School of Medicine
   * PIs: [Dr. Daniel K Sodickson](https://cbiweb.net/team/daniel-k-sodickson-md-phd/index.html) and [Dr. Hersh Chandarana](https://cbiweb.net/team/hersh-chandarana-md/index.html)
 
