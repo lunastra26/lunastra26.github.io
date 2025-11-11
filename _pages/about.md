@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Researcher with interests in AI for Healthcare - developing novel technologies to learn relevant representations from medical data, improve screening tools for automated risk assessments, monitor disease progression or treatment response, to improve clinical outcomes.
+Researcher with interests in AI for Healthcare - passionate about developing intelligent machines that can learn and interpret relevant representations from medical data the same way human clinicians do, systematically, methodically, and with prior context to facilitate earlier detection and improved health outcomes.
