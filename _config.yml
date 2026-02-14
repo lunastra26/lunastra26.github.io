@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Lavanya Umapathy"
 title_separator          : "-"
 name                     : &name "Lavanya Umapathy"
-description              : &description "Postdoctoral Fellow at Center for Advanced Imaging Innovation and Research, NYU Grossman School of Medicine"
+description              : &description "Postdoctoral Fellow at NYU Grossman School of Medicine"
 url                      : "https://lunastra26.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lunastra26.github.io"
@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Lavanya Umapathy"
-  bio              : "Postdoctoral Fellow at CAI2R"
+  bio              : "Postdoctoral Fellow at NYU Grossman School of Medicine"
   location         : "New York, New York"
 
   # Academic websites
