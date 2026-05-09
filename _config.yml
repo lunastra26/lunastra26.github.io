@@ -11,9 +11,9 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Lavanya Umapathy"
 title_separator          : "-"
-name                     : &name "Lavanya Umapathy"
-description              : &description "Postdoctoral Fellow at NYU Grossman School of Medicine"
-url                      : "https://lunastra26.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+name                     : "Lavanya Umapathy"
+description              : "Postdoctoral Fellow at NYU Grossman School of Medicine"
+url                      : "https://lunastra26.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lunastra26.github.io"
 
@@ -29,7 +29,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=MhXuGuEAAAAJ&hl=en"
-  impactstory      : # URL
+  # impactstory      : # URL
   orcid            : "https://orcid.org/0000-0002-7224-0930"
   researchgate     : "https://www.researchgate.net/profile/Lavanya-Umapathy"
 
