@@ -36,3 +36,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Awards
+======
+* Annual Meeting Program Committee Selected from International Society for Magnetic Resonance in Medicine, 2026, for the paper "Context is everything: Reducing false positives in longitudinal health assessment using deep learning with prior information"
+* Summa Cum Laude Merit Award from International Society for Magnetic Resonance in Medicine, 2026, for the paper "Context is everything: Reducing false positives in longitudinal health assessment using deep learning with prior information"
+* Magna Cum Laude Merit Award from International Society for Magnetic Resonance in Medicine, 2020, for the paper "StackGen-Net: A stacked generalization of 3D orthogonal convolutional neural networks for improved detection of white matter hyperintensities”
+* Magna Cum Laude Merit Award from International Society for Magnetic Resonance in Medicine, 2019, for the paper "A cascaded residual UNET for fully automated segmentation of prostate and peripheral zone in T2-weighted 3D fast spin echo images”
